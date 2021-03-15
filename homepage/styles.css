@@ -1,0 +1,164 @@
+li a
+    {
+        display: block;
+        color:white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration:none;
+    }
+
+li a:hover:not(.active)
+    {
+        background-color: grey;
+    }
+
+.title
+    {
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-size: 50px;
+        color:white;
+        text-shadow: 2px 2px 4px lightgrey;
+    }
+
+#homeparagraph
+    {
+        text-align: center;
+        color: black;
+        text-shadow: 2px 2px 6px white;
+        font-size: 28px;
+        font-family: 'Redressed', cursive;
+        width: 60%;
+        margin: auto;
+        background-color: linen;
+        opacity: 0.9;
+    }
+
+.containerhome
+    {
+        text-align: center;
+        width: 70%;
+        margin: auto;
+        padding: 50px;
+    }
+
+#hello
+    {
+        color: darkolivegreen;
+        font-family: 'Volkhov', serif;
+        text-shadow: 2px 2px 6px grey;
+        font-size: 20px;
+    }
+
+#hello2
+    {
+        color: darkolivegreen;
+        font-family: 'Volkhov', serif;
+        font-size: 20px;
+    }
+
+.picturestitle
+    {
+        text-align: center;
+        font-family: 'Akaya Telivigala', cursive;
+        font-size: 50px;
+        color: black;
+    }
+
+#resturantstitle
+    {
+        text-align: center;
+        font-family: 'Flavors', cursive;
+        font-size: 40px;
+        color: black;
+    }
+
+#home
+    {
+        background-image: url('Jackson heights.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+#pictures
+    {
+        background-color: Antiquewhite;
+    }
+
+#h1title
+    {
+        text-align: center;
+        font-family: 'Monoton', cursive;
+        font-size: 50px;
+        color: darkslategrey;
+        text-shadow: 2px 2px 4px darkgrey;
+        padding: 15px;
+    }
+
+.essay
+    {
+        width: 70%;
+        margin: auto;
+    }
+
+#essay1
+    {
+        background-color:lightgrey ;
+    }
+
+#essaypic
+    {
+        height: 400px;
+        width: 100%;
+    }
+
+#topic
+    {
+        font-family: 'Redressed', cursive;
+        font-size: 25px;
+        color: black;
+    }
+
+.featurearticle
+    {
+        padding: 20px;
+    }
+
+
+#activities
+    {
+        background-color: LightGoldenRodyellow;
+        font-family: 'Flavors', cursive;
+    }
+
+.carousel
+    {
+        text-align: center;
+        width: 60%;
+        margin:auto;
+        padding: 25px;
+    }
+
+#map
+    {
+        font-family: 'Akaya Telivigala', cursive;
+        color: antiquewhite;
+        text-align: center;
+        margin: auto;
+        background-image: url('essay1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+#map1
+    {
+        background-color: black;
+    }
+
+.maps2
+    {
+        padding: 25px;
+    }
+
